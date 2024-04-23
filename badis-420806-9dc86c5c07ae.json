@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "badis-420806",
+  "private_key_id": "9dc86c5c07aecbf2c9ed839ce6331276e90984b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzr0jZ94NoL2Nn\nq2EgA8Y1CRJqvief07R1AIvxaL/QOlxfSF6+b1W3AKiJh6Qu4eucnbIZlNbBr549\nJwDPUGw7507iVBAv0TxG5oTv1WAoi6KHYIRPES3KJYldHmvSlnoTj1PM9xoEAGXh\noS30s+X89ar4MSZJXEyc6TlNEEHSSnPrKJS5ngmz9E5yqDcrOevHJ8ZrvplKF+1A\nh/a6BCWg1CqaP0FnA4BAQSJTEIC7H2uwf2FCsLJsVJTMG9YNsgF6U56GAEkVWX8R\n82JtAOaIdzIH//8p4TrqihfOoqVg+ST3n8lGp44x/xa40Mh2Lq89G7mnMnHHYh5l\nWdXFMzblAgMBAAECggEABfp9gX3i66iN/AEZN3DT6E5WHeKYHDeCfNUcLH4lFnpm\noE34YKMA/PIi6Wzvr8nZDMo4OfH4YXpK8pmiXravXAcV2kgPpmoMDlQO4ffDxHDK\nIz55HU3C3zbq0EQaATT8BVWvi48m/xfJsmodbROldP2LwK79j60B28OslVpgRXnV\nHlxSq6e0GBZlt16CrOlElIloAsRUoZCQ28TkYUHQwuyNxEDw1qbo6DvuONE4IdUv\nyK87KQ7Eo6qkjQj78scWcdyOOA6xPoS+XSNv3EPzyNCR4sGE2SziAG55V8kzUpuC\nQMsoU3fwx4Agpx/Ev3KEv1xWkKR6rZJI6TVI3R+POQKBgQDcdqRdNMZYOs5uOjur\nbXt9y2bOITnuQBIG74+Nsf//FB8O32jN8CqG+nhRQCDl99zflOnr6++liOP0DCwf\nF8Lf+cw41Dm9Tw/4p87TUDIFs3ffiTbFh5hiJ91G5yWI1fVN7cS5I5zkbcSPDmvl\nrS73YscebHKfs4neaXLl6xuk7QKBgQDQpeuIT7csUUMDtX6gV7YATmr2N1p657H3\ncOpN+ek0an6umqy3N7ELW+kDbADx39zVoMStiNKRJ6QANKilyI9eoJXaBrDYGJZO\nyTbqN0NYs/FDavlV9q5Oz9myHtIjeYM5r1T89k9I3UOCwg3J+HBfGAVVdEJW41I2\n8eTlviLS2QKBgHLb3QYyWKPe/22uKShHAe+n6Qe7h9L4zmuOo9vOwPDEKuo0uwWP\n+pgYJlcucfVeDVTu4HBpm5FCoIClVtdcKctG+X8iEnLungOOadLuFSGjPvDXLBH9\ncwawfjhSdNu1nPfcyIEsbLEV/zII8W3XrIB2lgbjuVQ61blqdtISi3SBAoGAVKj+\nSPEPggv3BSo/lw//6V/oRr9vFy+sJprKd5lP5tTPUkmwiyctz04b3ieUuo/7KzNw\nmnlJ91v+T5cOVzZp9htysmTEnOpdEtrSTXbe/L8GxjRBt3/Aenob+wpGed50QJPE\nCGBpC0e8fPIAZlNIRU2Z3HKv+FGEqoa8OfxMZQECgYBZ4YCk9h90wC0ccbQ1Xd6Z\nVAJc2cEGuAFuUJlwWEMuHIs6VmYWezbRGNoOSZQz0H9Um9cS1lTPuBuNZ3rAWRt9\nzAp4I5sm1KlzACPgdsZ8n2KHBO0+fL33oaWVhxk1r71f/+/V7y4lSPbNSncYy0O+\njlll6APqqjePc2xFzDIBew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "badis-parser@badis-420806.iam.gserviceaccount.com",
+  "client_id": "117117329108778195492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/badis-parser%40badis-420806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
